@@ -64,12 +64,6 @@ public class HlavniProgram {
     domkyVedleSebe(5);
 
     //domek poslední + zofka cetuje na místo
-//    zofka.turnRight(90);
-//    zofkaChangesPlace(80);
-//    zofka.turnLeft(90);
-//    zofka.turnRight(180);
-//    zofkaChangesPlace(300);
-//    zofka.turnLeft(180);
     zofka.setLocation(900, 700);
     domkyVedleSebe(1);
   }
