@@ -203,6 +203,5 @@ public void slovoMezera(int angle, int distance){
     charN();
     slovoMezera(90,100);
     charA();
-
   }
 }
